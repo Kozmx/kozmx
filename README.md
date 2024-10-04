@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan Özman</h1>
-<h3 align="center">A Math and Computer Scinece Student In Eskisehir,Turkey</h3>
+<h3 align="center">A Math and Computer Science Student In Eskisehir,Turkey</h3>
 
 - 🌱 I’m currently learning **Python,Flutter,Dart,Machine Learning,Deep Learning,OpenCV,C#**
 
